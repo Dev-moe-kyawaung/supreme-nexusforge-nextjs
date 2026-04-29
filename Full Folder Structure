@@ -1,0 +1,22 @@
+supreme-nexusforge-nextjs/
+├── app/
+│   ├── globals.css
+│   ├── layout.tsx
+│   └── page.tsx
+├── components/
+│   ├── ui/                  # shadcn components
+│   ├── Navbar.tsx
+│   ├── Hero.tsx
+│   ├── About.tsx
+│   ├── Skills.tsx
+│   ├── Projects.tsx
+│   ├── Contact.tsx
+│   └── Scene3D.tsx
+├── lib/
+│   └── utils.ts
+├── public/
+│   └── images/ (your projects screenshots)
+├── tailwind.config.ts
+├── next.config.mjs
+├── tsconfig.json
+└── package.json
